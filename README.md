@@ -2,7 +2,7 @@
 
 Welcome to the **Lost and Found System**! This is a Java-based application built using **Java Swing** for the GUI and **MongoDB** as the database, designed to help users report and search for lost and found items. The application offers a user-friendly interface to allow people to report lost belongings and find items they may have found.
 
-### **Lead Developer**: [Siva Sabari Ganesan A](#)  
+### **Lead Developer**: [Siva Sabari Ganesan A](https://www.linkedin.com/in/siva-sabari-ganesan-a-b3288a28b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 ### **Team Member**: [Shanmuganathan S](#)
 
 ---
